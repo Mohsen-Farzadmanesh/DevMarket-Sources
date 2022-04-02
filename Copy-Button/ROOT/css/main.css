@@ -1,0 +1,108 @@
+/* More Products : https://t.me/DevdoodMarket, JOIN US :) */
+
+
+@import './Fonts.css';
+@import './WaterMark.css';
+
+* {
+      padding: 0;
+      margin: 0;
+      font-family: Peyda-Regular;
+      direction: rtl;
+}
+
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100vh;
+      overflow: hidden;
+}
+
+.container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;align-items: center;
+}
+
+.container .copy {
+      width: 250px;
+      height: 75px;
+      background: rgb(37, 100, 184);
+      border-radius: 9px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 25px;
+}
+
+.container .copy .text {
+      font-size: 24px;
+      color: #fff;
+}
+
+.container .copy button {
+      width: 45px;
+      height: 45px;
+      border: none;
+      background: #fff;
+      color: rgb(37, 100, 184);
+      font-size: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 7px;
+      cursor: pointer;
+      transition: background 0.7s, color 0.7s;
+}
+
+.container .copy button:hover {
+      color: #fff;
+      background: rgb(26, 79, 148);
+      transition: 0.7s;
+}
+
+
+.container > .paste {
+      width: 250px;
+      height: 75px;
+      background: rgb(37, 100, 184);
+      border-radius: 9px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 25px;
+      margin-top: 10px;
+}
+
+.container > .paste .text-input {
+      width: 170px;
+      height: 45px;
+      border-radius: 7px;
+      color: rgb(37, 101, 184);
+      border: none;
+      padding: 0 12px;
+      outline: none;
+}
+
+.container > .paste button.paste {
+      width: 45px;
+      height: 45px;
+      border: none;
+      background: #fff;
+      color: rgb(37, 100, 184);
+      font-size: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 7px;
+      cursor: pointer;
+      transition: background 0.7s, color 0.7s;
+}
+
+.container > .paste button.paste:hover {
+      color: #fff;
+      background: rgb(26, 79, 148);
+      transition: 0.7s;
+}

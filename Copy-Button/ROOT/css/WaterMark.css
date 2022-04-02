@@ -1,0 +1,26 @@
+/* More Products : https://t.me/DevdoodMarket, JOIN US :) */
+
+@import 'Fonts.css';
+
+.WaterMark {
+    font-family: Peyda-Black;
+
+    position: absolute;
+    top: 86%;
+    left: 5%;
+
+    background: rgb(37, 100, 184);
+    padding: 5px 8px;
+    border-radius: 3px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.WaterMark a {
+    font-size: 17px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 900;
+}

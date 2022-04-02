@@ -1,0 +1,84 @@
+/* More Products : https://t.me/DevdoodMarket, JOIN US :) */
+
+
+@font-face {
+  font-family: "Peyda-Thin";
+  src: url("./font/eot/PeydaWeb-Thin.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/PeydaWeb-Thin.woff") format("woff"),
+    url("./font/ttf/Peyda-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "peyda-extralight";
+  src: url("./font/eot/peydaWeb-extralight.eot?#iefix")
+      format("embedded-opentype"),
+    url("./font/Woff/peydaWeb-extralight.woff") format("woff"),
+    url("./font/ttf/peydaWeb-extralight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "peyda-light";
+  src: url("./font/eot/peyda-light.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/peyda-light.woff") format("woff"),
+    url("./font/ttf/peyda-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Peyda-Regular";
+  src: url("./font/eot/Peyda-Regular.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/Peyda-Regular.woff") format("woff"),
+    url("./font/ttf/Peyda-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Peyda-Medium";
+  src: url("./font/eot/Peyda-Medium.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/Peyda-Medium.woff") format("woff"),
+    url("./font/ttf/Peyda-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Peyda-SemiBold";
+  src: url("./font/eot/Peyda-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/Peyda-SemiBold.woff") format("woff"),
+    url("./font/ttf/Peyda-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Peyda-Bold";
+  src: url("./font/eot/Peyda-Bold.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/Peyda-Bold.woff") format("woff"),
+    url("./font/ttf/Peyda-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Peyda-ExtraBold";
+  src: url("./font/eot/Peyda-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/Peyda-ExtraBold.woff") format("woff"),
+    url("./font/ttf/Peyda-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Peyda-Black";
+  src: url("./font/eot/Peyda-Black.eot?#iefix") format("embedded-opentype"),
+    url("./font/Woff/Peyda-Black.woff") format("woff"),
+    url("./font/ttf/Peyda-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
