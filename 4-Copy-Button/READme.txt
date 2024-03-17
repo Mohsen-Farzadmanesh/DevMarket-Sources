@@ -1,9 +1,9 @@
 |------------------------------|
 |                              |
-|         "Dev Market"         |
+|    "Copy And Paste Button"   |
 |                              |
-|     Telegram : DevMarketIR   |
+|           elseUSER           |
 |                              |
-|          JOIN US :)          |
+|     Telegram : CapTUSER      | 
 |                              |
 |------------------------------|
