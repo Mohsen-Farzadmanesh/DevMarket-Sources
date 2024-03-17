@@ -1,9 +1,9 @@
 |------------------------------|
 |                              |
-|         "Dev Market"         |
+|    "Search Box Components"   |
 |                              |
-|     Telegram : DevMarketIR   |
+|           elseUSER           |
 |                              |
-|          JOIN US :)          |
+|     Telegram : CapTUSER      | 
 |                              |
 |------------------------------|
