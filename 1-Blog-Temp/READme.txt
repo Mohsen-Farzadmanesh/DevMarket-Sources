@@ -1,9 +1,9 @@
 |------------------------------|
 |                              |
-|         "Dev Market"         |
+|        "Blog Template"       |
 |                              |
-|     Telegram : DevMarketIR   |
+|           elseUSER           |
 |                              |
-|          JOIN US :)          |
+|     Telegram : CapTUSER      | 
 |                              |
 |------------------------------|
